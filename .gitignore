@@ -1,0 +1,11 @@
+# Ignore all HTML files globally
+*.html
+
+# Ignore all XML files globally
+*.xml
+
+# Ignore all JS files globally
+*.js
+
+# Ignore all CSS files globally
+*.css
