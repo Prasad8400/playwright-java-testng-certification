@@ -2,6 +2,9 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
+[![Certifications & Awards](https://img.shields.io/badge/Certifications%20%26%20Awards-10-blue)](https://github.com/Prasad8400/My_AwardsAndCertifications/blob/main/My_AwardsAndCertifications.md)
+
 This project was created and submitted as part of the **LambdaTest Playwright Java 101 Certification**.  
 It showcases my ability to automate end-to-end UI scenarios using **Microsoft Playwright**, **Java**, **Maven**, and **TestNG**.
 
