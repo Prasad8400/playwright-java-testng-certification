@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+  <test name="PlaywrightTest-Win10-Chromium">
+    <parameter name="testName" value="PlaywrightTest-Win10-Chromium"/>
+    <parameter name="browser" value="pw-chromium"/>
+    <parameter name="platform" value="Windows 10"/>
+    <classes>
+      <class name="PlaywrightJavaAssignment.TestScenarios"/>
+    </classes>
+  </test>
+
+  <test name="PlaywrightTest-macOSCatalina-firefox">
+    <parameter name="testName" value="PlaywrightTest-macOSCatalina-firefox"/>
+    <parameter name="browser" value="pw-firefox"/>
+    <parameter name="platform" value="macOS Catalina"/>
+    <classes>
+      <class name="PlaywrightJavaAssignment.TestScenarios"/>
+    </classes>
+  </test>
+</suite>
