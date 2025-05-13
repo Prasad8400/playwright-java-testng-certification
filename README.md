@@ -44,3 +44,8 @@ It showcases my ability to automate end-to-end UI scenarios using **Microsoft Pl
    ```bash
    git clone https://github.com/YOUR_USERNAME/playwright-java-testng-certification.git
    cd playwright-java-testng-certification
+
+## 📬 Contact
+
+- 📧 Email: prasadsutar6544@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/prasadsutar8400](https://www.linkedin.com/in/prasadsutar8400/)
