@@ -5,6 +5,12 @@
 
 [![Certifications & Awards](https://img.shields.io/badge/Certifications%20%26%20Awards-10-blue)](https://github.com/Prasad8400/My_AwardsAndCertifications/blob/main/My_AwardsAndCertifications.md)
 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat&logo=testng)](https://testng.org/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven)](https://maven.apache.org/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
+
 This project was created and submitted as part of the **LambdaTest Playwright Java 101 Certification**.  
 It showcases my ability to automate end-to-end UI scenarios using **Microsoft Playwright**, **Java**, **Maven**, and **TestNG**.
 
@@ -16,7 +22,7 @@ It showcases my ability to automate end-to-end UI scenarios using **Microsoft Pl
 - Uses **Playwright for Java** for browser automation
 - Modular project structure with reusable components
 - Includes a **BaseClass** for Playwright setup and teardown
-- Executes functional tests and generates clean HTML reports
+- Executes functional cross browser tests and generates clean HTML reports
 
 ---
 
